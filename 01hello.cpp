@@ -2,11 +2,7 @@
 int main()
 {
     printf("hello ya");
-
-    printf("Cecece");
-    printf("Cecece");
-    printf("Cecece");
-    printf("Cecece");
-
+    printf("ceshiyixia");
+    printf("wojiezhece");
     return 0;
 }
